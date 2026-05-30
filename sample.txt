@@ -1,0 +1,3 @@
+hello
+hello java
+this is buffered file

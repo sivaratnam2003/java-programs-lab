@@ -1,0 +1,5 @@
+public Rectangle(){//default constructor
+length=10;
+width=20;
+}
+Rectangle r1=new Rectangle();
